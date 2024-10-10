@@ -1,3 +1,6 @@
+//Yorielys de los Santos | GitHub: yorielyssantos
+//programa que calcula el promedio de 10 enteros de los archivos txt
+
 #include <iostream>
 using namespace std;
 
@@ -18,3 +21,4 @@ int main() {
 
     return 0;
 }
+
